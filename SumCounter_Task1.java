@@ -5,7 +5,7 @@ package com.company;
  */
 
 /// Task_1
-public  class SumCounter {
+public  class SumCounter_Task1 {
 
 
     static public int countSum (Long someLong){
